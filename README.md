@@ -20,4 +20,8 @@ to update command
 
 Usage:
 
-`!spec weapon1-weapon2 username`
+`!spec <weapons-seperated-by-hyphen> (twitchUserToSpec?)`
+
+_!spec bali-dblmaul @James_\
+OR\
+_!spec surge-maul-ags_
