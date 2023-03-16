@@ -23,5 +23,5 @@ Usage:
 `!spec <weapons-seperated-by-hyphen> (twitchUserToSpec?)`
 
 _!spec bali-dblmaul @James_\
-OR\
+OR (without a target)\
 _!spec surge-maul-ags_
