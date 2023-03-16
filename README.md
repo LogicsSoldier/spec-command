@@ -1,6 +1,7 @@
 # spec-command
 Ultimate Twitch Chat Spec Command
 
+![image not fouind](https://i.gyazo.com/a99ea91161c8341289692f93e545013a.png)
 
 copy and paste below code into your chat 
 
