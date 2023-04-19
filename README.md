@@ -25,3 +25,9 @@ Usage:
 _!spec bali-dblmaul @James_\
 OR (without a target)\
 _!spec surge-maul-ags_
+
+## optional
+Command for viewing weapons list:
+```js
+!addcom !weaponslist $(eval (d=20)&&(w=Object.keys($(urlfetch json https://tinyurl.com/347jrrxu).w).map(x=>x.trim()))&&(x=$(1)||1)&&w.splice(Math.max(0,x-1)*d, d).join(", ")+` - [${x} of ${Math.ceil(w.length/d)}]`)
+```
